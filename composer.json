@@ -1,0 +1,15 @@
+{
+    "name": "hapdev/jvc",
+    "version": "0.0.1",
+    "type": "library",
+    "license": "GPL-3.0",
+    "require-dev": {
+        "phpunit/phpunit": "~3.7",
+        "squizlabs/php_codesniffer": "~1.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Hapdev\\Jvc\\": "src/"
+        }
+    }
+}
